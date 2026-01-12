@@ -54,18 +54,14 @@ faq-chatbot/
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/GAURAV-MORE28/faq-chatbot.git
 cd faq-chatbot
-
-2️⃣ Install dependencies
 pip install -r requirements.txt
-
-3️⃣ Run the Streamlit app
 python -m streamlit run app.py
 
 
-🎓 Academic Relevance
+###  🎓 Academic Relevance
 
 This project demonstrates:
 
@@ -81,7 +77,7 @@ Integration of backend logic with a frontend UI
 
 It is suitable for college projects, viva examinations, and beginner NLP demonstrations.
 
-🚀 Future Enhancements
+###  🚀 Future Enhancements
 
 Add confidence score for answers
 
@@ -91,6 +87,8 @@ Expand FAQ database
 
 Add database support instead of static FAQs
 
-👤 Author
+###  👤 Author
 
 Gaurav More
+
+
