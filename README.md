@@ -56,9 +56,13 @@ faq-chatbot/
 ### 1️⃣ Clone the repository
 
 git clone https://github.com/GAURAV-MORE28/faq-chatbot.git
+
 cd faq-chatbot
+
 pip install -r requirements.txt
+
 python -m streamlit run app.py
+
 
 
 ###  🎓 Academic Relevance
@@ -90,5 +94,6 @@ Add database support instead of static FAQs
 ###  👤 Author
 
 Gaurav More
+
 
 
